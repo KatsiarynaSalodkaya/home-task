@@ -2,4 +2,4 @@
 
 Test project for Git training
 
-"develop" branch
+"master" branch
